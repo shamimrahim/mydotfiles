@@ -100,6 +100,8 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+#List of my Personal Aliases
+
 alias l='ls -lah'
 alias mediaserver='ssh root@mediaserver'
 alias pi4='ssh pi@pi4'

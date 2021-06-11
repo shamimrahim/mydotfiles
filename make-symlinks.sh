@@ -13,7 +13,7 @@ dir=~/Users/sham/mydotfiles/
 olddir=~/Users/sham/mydotfiles/dotfiles_old
 
 # list of files/folders to symlink in homedir
-files=".zshrc gitconfig functions"
+files="zshrc gitconfig functions"
 
 ##########
 
